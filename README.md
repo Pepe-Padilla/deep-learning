@@ -11,3 +11,4 @@ Este proyecto es un entregable para la práctica del Master Bootcamp Inteligenci
 - **Modelo 2D**: Archivo [Modelo2D.ipynb](./Modelo2D.ipynb), incluye los pasos de la práctica así como una descripción de la misma.
 - **Estrategia late-fusion**: Archivo [lateFusion.ipynb](./lateFusion.ipynb), incluye los pasos de la práctica así como una descripción de la misma.
 - **Estrategia early-fusion**: Archivo [earlyFusion.ipynb](./earlyFusion.ipynb), incluye los pasos de la práctica así como una descripción de la misma.
+- **Extra**: Como trabajo extra y quedar bien [algoritmosGeneticos.ipynb](./algoritmosGeneticos.ipynb), incluye la implementación del algoritmo genético FTW.
